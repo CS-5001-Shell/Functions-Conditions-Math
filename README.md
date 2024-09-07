@@ -37,7 +37,7 @@ One of my favorite card games is called Hand and Foot. The goal of the game is t
 | Black Threes | 5 points |
 | Red Threes | No value |
 
-* Note that the value of a Three will differ based upon the color. Your program will prompt the user for the rank and, if the rank is a Three, it will need to also prompt the user for the color.*
+*Note that the value of a Three will differ based upon the color. Your program will prompt the user for the rank and, if the rank is a Three, it will need to also prompt the user for the color.*
 
 This program will be implemented in the file named *card_game_helper.py*.
 
